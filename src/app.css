@@ -1,0 +1,47 @@
+/**
+  * This injects Tailwind's base styles and any base styles registered by
+  * plugins.
+  */
+@tailwind base;
+
+/**
+  * This injects Tailwind's component classes and any component classes
+  * registered by plugins.
+  */
+@tailwind components;
+
+/**
+  * This injects Tailwind's utility classes and any utility classes registered
+  * by plugins.
+  */
+@tailwind utilities;
+
+/**
+  * Use this directive to control where Tailwind injects the hover, focus,
+  * responsive, dark mode, and other variants of each class.
+  *
+  * If omitted, Tailwind will append these classes to the very end of
+  * your stylesheet by default.
+  */
+@tailwind variants;
+
+* {
+  font-family: 'Inter', 'Helvetica Neue', 'Segoe UI', 'Roboto', 'Ubuntu', sans-serif;
+  letter-spacing: 0 !important;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: #0000;
+  -webkit-text-size-adjust: 100%;
+  -webkit-touch-callout: none;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  overflow: hidden auto;
+  scrollbar-gutter: stable both-edges;
+}
+
+html {
+  color-scheme: dark;
+}

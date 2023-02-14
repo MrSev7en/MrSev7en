@@ -1,0 +1,161 @@
+{
+  "page": {
+    "title": "Eduardo (MrSev7en)",
+    "description": "Meu nome é Eduardo Dias, tenho 18 anos e sou desenvolvedor de sites e aplicativos. Sempre fui apaixonado por tecnologia e por isso resolvi me dedicar a isso. Atualmente não trabalho com desenvolvimento, mas estou sempre estudando e me aperfeiçoando para um dia poder trabalhar com isso.",
+    "keywords": "eduardo, mrsev7en, portfolio",
+    "author": "MrSev7en"
+  },
+  "header": {
+    "button": {
+      "0": "Início",
+      "1": "Sobre",
+      "2": "Projetos",
+      "3": "Habilidades",
+      "4": "Contato"
+    }
+  },
+  "main": {
+    "home": {
+      "title": {
+        "0": "Olá, sou o Eduardo.",
+        "1": "Desenvolvedor",
+        "2": "\"Amante de tecnologia e programação. Sempre buscando aprimorar meus conhecimentos e aprender coisas novas.\""
+      },
+      "button": {
+        "0": "PROJETOS",
+        "1": "CONTATO"
+      }
+    },
+    "about": {
+      "title": "Sobre mim",
+      "subtitle": {
+        "0": "Oi para você! Me chamo Eduardo Dias, tenho 18 anos (faço 19 dia 24 de abril) e sou um programador de sites e aplicativos.",
+        "1": "Sempre gostei de tecnologia, e desde pequeno sempre tive um interesse por computadores, por isso resolvi me dedicar a isso. Atualmente não trabalho com desenvolvimento, mas estou sempre estudando e me aperfeiçoando para um dia poder trabalhar com isso.",
+        "2": "Meu objetivo é me tornar um desenvolvedor com um grande conhecimento e experiência, para assim poder ajudar outras pessoas e empresas a desenvolverem seus projetos.",
+        "3": "Já desenvolvi diversos projetos, tanto para mim quanto para outras pessoas, e estou sempre disposto a ajudar e contribuir com o que sei."
+      }
+    },
+    "projects": {
+      "title": "Projetos públicos em que trabalhei",
+      "list": {
+        "0": {
+          "title": "CloudLounge",
+          "subtitle": "Site de conversas online, totalmente anônimo, e com criptografia de ponta a ponta."
+        },
+        "1": {
+          "title": "TabNews Extensions",
+          "subtitle": "Um plug-in do Tampermonkey, que permite pesquisar dentro da plataforma inteira."
+        },
+        "2": {
+          "title": "InSim Base",
+          "subtitle": "Um template de criação de software que comunica-se com o jogo \"Live for Speed\". Esse template é altamente utilizado pela comunidade do jogo."
+        }
+      }
+    },
+    "abilities": {
+      "title": "Habilidades e conhecimentos",
+      "advanced": {
+        "0": {
+          "title": "Svelte",
+          "subtitle": "Framework para criação de sites em JavaScript e TypeScript.",
+          "href": "https://svelte.dev/"
+        },
+        "1": {
+          "title": "Next.js",
+          "subtitle": "Framework para criação de sites usando React.",
+          "href": "https://nextjs.org/"
+        },
+        "2": {
+          "title": "React",
+          "subtitle": "Framework para criação de sites em JavaScript e TypeScript.",
+          "href": "https://reactjs.org/"
+        },
+        "3": {
+          "title": "JavaScript",
+          "subtitle": "Linguagem de programação utilizada para criar sites.",
+          "href": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"
+        },
+        "4": {
+          "title": "TypeScript",
+          "subtitle": "Linguagem de programação subconjunto de JavaScript que adiciona tipagem estática.",
+          "href": "https://typescriptlang.org/"
+        },
+        "5": {
+          "title": "HTML",
+          "subtitle": "Linguagem de marcação utilizada para criar páginas da web.",
+          "href": "https://developer.mozilla.org/pt-BR/docs/Web/HTML/"
+        },
+        "6": {
+          "title": "CSS",
+          "subtitle": "Linguagem de estilo utilizada para criar páginas da web.",
+          "href": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/"
+        },
+        "7": {
+          "title": "C#",
+          "subtitle": "Linguagem de programação utilizada para criar aplicativos desktop.",
+          "href": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+        },
+        "8": {
+          "title": "Prisma",
+          "subtitle": "Mapeamento objeto-relacional de banco de dados.",
+          "href": "https://prisma.io/"
+        }
+      },
+      "intermediary": {
+        "0": {
+          "title": "MySQL",
+          "subtitle": "Sistema de gerenciamento de banco de dados relacional.",
+          "href": "https://mysql.com/"
+        },
+        "1": {
+          "title": "Java",
+          "subtitle": "Linguagem de programação utilizada para criar aplicativos desktop e mobile.",
+          "href": "https://java.com/pt-BR/"
+        },
+        "2": {
+          "title": "Tailwind CSS",
+          "subtitle": "Conjunto de ferramentas para estilização de sites.",
+          "href": "https://tailwindcss.com/"
+        }
+      },
+      "beginner": {
+        "0": {
+          "title": "Python",
+          "subtitle": "Linguagem de programação utilizada para criar scripts e programas.",
+          "href": "https://python.org/"
+        },
+        "1": {
+          "title": "PHP",
+          "subtitle": "Linguagem de programação utilizada para criar sites dinâmicos.",
+          "href": "https://php.net/"
+        },
+        "2": {
+          "title": "C++",
+          "subtitle": "Linguagem de programação utilizada para criar módulos e aplicativos desktop.",
+          "href": "https://cplusplus.com/"
+        }
+      },
+      "efficiency": {
+        "0": "AVANÇADO",
+        "1": "INTERMEDIÁRIO",
+        "2": "INICIANTE"
+      }
+    },
+    "contact": {
+      "title": "Contato",
+      "list": {
+        "0": "GitHub",
+        "1": "Instagram",
+        "2": "Twitter",
+        "3": "Discord",
+        "4": "E-mail",
+        "5": "LinkedIn",
+        "6": "Telegram"
+      }
+    }
+  },
+  "footer": {
+    "title": "Copyright &copy; 2023 Eduardo Dias - Todos os direitos reservados.",
+    "subtitle": "Código fonte"
+  }
+}

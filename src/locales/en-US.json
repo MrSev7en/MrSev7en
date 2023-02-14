@@ -1,0 +1,161 @@
+{
+  "page": {
+    "title": "Eduardo (MrSev7en)",
+    "description": "My name is Eduardo Dias, I'm 18 years old and I'm a website and app developer. I've always been passionate about technology and that's why I decided to dedicate myself to it. Currently I don't work with development, but I'm always studying and perfecting myself so that one day I can work with it.",
+    "keywords": "eduardo, mrsev7en, portfolio",
+    "author": "MrSev7en"
+  },
+  "header": {
+    "button": {
+      "0": "Home",
+      "1": "About",
+      "2": "Projects",
+      "3": "Abilities",
+      "4": "Contact"
+    }
+  },
+  "main": {
+    "home": {
+      "title": {
+        "0": "Hi, I'm Eduardo.",
+        "1": "Developer",
+        "2": "\"Technology and programming lover. Always looking to improve my knowledge and learn new things.\""
+      },
+      "button": {
+        "0": "PROJECTS",
+        "1": "CONTACT"
+      }
+    },
+    "about": {
+      "title": "About me",
+      "subtitle": {
+        "0": "Hi to you! My name is Eduardo Dias, I'm 18 years old (I'll be 19 on April 24th) and I'm a website and application programmer.",
+        "1": "I've always liked technology, and since I was little I've always had an interest in computers, so I decided to dedicate myself to that. Currently I don't work with development, but I'm always studying and perfecting myself so that one day I can work with it.",
+        "2": "My goal is to become a developer with great knowledge and experience, so I can help other people and companies to develop their projects.",
+        "3": "I have already developed several projects, both for myself and for other people, and I am always willing to help and contribute with what I know."
+      }
+    },
+    "projects": {
+      "title": "Public projects I worked on",
+      "list": {
+        "0": {
+          "title": "CloudLounge",
+          "subtitle": "Fully anonymous online chat site with end-to-end encryption."
+        },
+        "1": {
+          "title": "TabNews Extensions",
+          "subtitle": "A Tampermonkey plugin, which allows you to search within the entire platform."
+        },
+        "2": {
+          "title": "InSim Base",
+          "subtitle": "A software creation template that communicates with the \"Live for Speed\" game. This template is highly used by the game community."
+        }
+      }
+    },
+    "abilities": {
+      "title": "Skills and knowledge",
+      "advanced": {
+        "0": {
+          "title": "Svelte",
+          "subtitle": "Framework for creating websites in JavaScript and TypeScript.",
+          "href": "https://svelte.dev/"
+        },
+        "1": {
+          "title": "Next.js",
+          "subtitle": "Framework for creating websites using React.",
+          "href": "https://nextjs.org/"
+        },
+        "2": {
+          "title": "React",
+          "subtitle": "Framework for creating websites in JavaScript and TypeScript.",
+          "href": "https://reactjs.org/"
+        },
+        "3": {
+          "title": "JavaScript",
+          "subtitle": "Programming language used to create websites.",
+          "href": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"
+        },
+        "4": {
+          "title": "TypeScript",
+          "subtitle": "Programming language subset of JavaScript that adds static typing.",
+          "href": "https://typescriptlang.org/"
+        },
+        "5": {
+          "title": "HTML",
+          "subtitle": "Markup language used to create web pages.",
+          "href": "https://developer.mozilla.org/pt-BR/docs/Web/HTML/"
+        },
+        "6": {
+          "title": "CSS",
+          "subtitle": "Styling language used to create web pages.",
+          "href": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/"
+        },
+        "7": {
+          "title": "C#",
+          "subtitle": "Programming language used to create desktop applications.",
+          "href": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+        },
+        "8": {
+          "title": "Prisma",
+          "subtitle": "Database object-relational mapping.",
+          "href": "https://prisma.io/"
+        }
+      },
+      "intermediary": {
+        "0": {
+          "title": "MySQL",
+          "subtitle": "Relational database management system.",
+          "href": "https://mysql.com/"
+        },
+        "1": {
+          "title": "Java",
+          "subtitle": "Programming language used to create desktop and mobile applications.",
+          "href": "https://java.com/pt-BR/"
+        },
+        "2": {
+          "title": "Tailwind CSS",
+          "subtitle": "Set of tools for website styling.",
+          "href": "https://tailwindcss.com/"
+        }
+      },
+      "beginner": {
+        "0": {
+          "title": "Python",
+          "subtitle": "Programming language used to create scripts and programs.",
+          "href": "https://python.org/"
+        },
+        "1": {
+          "title": "PHP",
+          "subtitle": "Programming language used to create dynamic websites.",
+          "href": "https://php.net/"
+        },
+        "2": {
+          "title": "C++",
+          "subtitle": "Programming language used to create modules and desktop applications.",
+          "href": "https://cplusplus.com/"
+        }
+      },
+      "efficiency": {
+        "0": "ADVANCED",
+        "1": "INTERMEDIARY",
+        "2": "BEGINNER"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "list": {
+        "0": "GitHub",
+        "1": "Instagram",
+        "2": "Twitter",
+        "3": "Discord",
+        "4": "E-mail",
+        "5": "LinkedIn",
+        "6": "Telegram"
+      }
+    }
+  },
+  "footer": {
+    "title": "Copyright &copy; 2023 Eduardo Dias - All rights reserved.",
+    "subtitle": "Source code"
+  }
+}
