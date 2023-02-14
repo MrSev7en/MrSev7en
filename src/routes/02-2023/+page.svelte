@@ -43,7 +43,7 @@
 
 {#if $scrollTop > 0}
   <header
-    class="bg-white w-full min-h-16 h-fit px-8 fixed inset-0 flex items-center justify-center md:justify-between flex-row flex-wrap gap-4 md:gap-2 select-none z-[1]"
+    class="bg-white w-full min-h-16 h-fit p-8 fixed inset-0 flex items-center justify-center md:justify-between flex-row flex-wrap gap-4 md:gap-2 select-none z-[1]"
     transition:fade={{ duration: 200 }}
   >
     <span class="text-black text-base md:text-lg font-extrabold">
